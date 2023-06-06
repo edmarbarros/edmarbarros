@@ -1,7 +1,7 @@
 ### Hey! I am Edmar 👋
 
 I am a Brazilian software engineer with extensive experience working with startups across Europe, Australia, and the United States.
-Throughout my career, I have helped to build products in diverse areas such as healthcare and research, payments, customer rate optimization, and mobility.
+Throughout my career, I have helped to build products in diverse areas such as healthcare and research, payments, conversion rate optimization, and mobility.
 
 
 
@@ -10,7 +10,7 @@ Specifically, I have expertise in using Node.js, Django, and Java on the backend
 
 
 My experience includes building scalable systems that handle high volumes of data, optimizing application performance, and designing robust architectures.
-I have also worked on implementing and integrating various third-party APIs such as Stripe, NMI, Spreedly, Survey Monkey, Twilio, Sendgrid, Sanity, and others.
+I have also worked on implementing and integrating various third-party APIs for payments(Stripe, NMI, Spreedly), communication(Survey Monkey, Twilio, Sendgrid), content management solution(Sanity), and others.
 
 
 Additionally, I have a passion for learning new technologies and keeping up with industry trends. 
